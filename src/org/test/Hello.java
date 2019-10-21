@@ -2,7 +2,11 @@ package org.test;
 
 public class Hello {
 
-	 private void add() {
+	private void txt() {
+		// TODO Auto-generated method stub
+
+	} 
+	private void add() {
 		// TODO Auto-generated method stub
 
 	}
@@ -11,4 +15,18 @@ public class Hello {
 
 	}
 	 
+	 
+	 private void mul() {
+		// TODO Auto-generated method stub
+
+	}
+	 
+	 private void div() {
+		// TODO Auto-generated method stub
+
+	}
+
+	 
+	 
+
 }
