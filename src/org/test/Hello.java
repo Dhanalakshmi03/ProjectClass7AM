@@ -7,13 +7,17 @@ public class Hello {
 
 	}
 	 
-
 	 private void sub() {
 		// TODO Auto-generated method stub
 
 	}
 	 
 	 private void mul() {
+		// TODO Auto-generated method stub
+
+	}
+	 
+	 private void div() {
 		// TODO Auto-generated method stub
 
 	}
