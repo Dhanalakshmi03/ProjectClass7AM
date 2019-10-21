@@ -20,8 +20,9 @@ public class Hello {
 		// TODO Auto-generated method stub
 
 	}
+
 	 
-	 private void div() {
+	 private void test() {
 		// TODO Auto-generated method stub
 
 	}
