@@ -2,7 +2,7 @@ package org.test;
 
 public class Project {
 
-	private void hello() {
+	private void hello12321() {
 		// TODO Auto-generated method stub
 
 	}
