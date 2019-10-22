@@ -12,6 +12,10 @@ public class Project {
 
 	}
 	
+	private void fun() {
+		// TODO Auto-generated method stub
+
+	}
 	private void fs() {
 		// TODO Auto-generated method stub
 
