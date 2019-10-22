@@ -12,6 +12,11 @@ public class Sample {
 
 	}
 	 
+	 private void ora() {
+		// TODO Auto-generated method stub
+
+	}
+	 
 	 public static void main(String[] args) {
 		Sample s = new Sample();
 		s.java();
