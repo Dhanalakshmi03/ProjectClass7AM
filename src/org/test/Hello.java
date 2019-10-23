@@ -22,7 +22,7 @@ public class Hello {
 	}
 
 	 
-	 private void test() {
+	 private void testereret() {
 		// TODO Auto-generated method stub
 
 	}
